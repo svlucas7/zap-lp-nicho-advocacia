@@ -1,5 +1,8 @@
 ﻿# Landing Page — Nicho Advocacia
 
+![Preview](docs/preview.png)
+
+
 Este repositório faz parte do meu portfólio no GitHub. É uma landing page de Advocacia desenvolvida profissionalmente (no contexto do meu trabalho) e publicada aqui para demonstrar meu processo, padrões e qualidade de entrega.
 
 - Repositório: https://github.com/svlucas7/zap-lp-nicho-advocacia
